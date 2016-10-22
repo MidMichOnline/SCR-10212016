@@ -1,6 +1,8 @@
 # Shepherd vs Ithaca
 
-@Editor: Tonight Jay Gross livestreamed Shepherd's game against Ithaca. Here is a [link to the video on Facebook](https://www.facebook.com/jgross811/videos/10154261131353445/). The following are posts following the game and responses to Jay's broadcast.
+@Editor:
+
+Tonight Jay Gross livestreamed Shepherd's game against Ithaca. Here is a [link to the video on Facebook](https://www.facebook.com/jgross811/videos/10154261131353445/). The following are posts following the game and responses to Jay's broadcast.
 
 -
 
