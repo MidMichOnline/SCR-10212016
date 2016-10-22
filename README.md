@@ -1,1 +1,2 @@
-# SCR-10212016
+# The Shepherd Community Recon
+##October 21, 2016
