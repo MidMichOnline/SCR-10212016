@@ -7,3 +7,4 @@ Anybody who is interested in handing out candy during this event should reserve 
 The public will also be able to walk through two haunted buses.
 
 
+![](14724433_582366285286783_1965920836801240876_n.png)
