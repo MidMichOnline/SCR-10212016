@@ -1,6 +1,6 @@
 # Summary
-
+###Schools
 * [Special Lunch](special_lunch.md)
-* [The Haunted Forest](special_lunch.md)
+###Community
 * [The Haunted Forest](thehauntedforest.md)
 
