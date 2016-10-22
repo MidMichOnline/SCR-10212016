@@ -1,14 +1,7 @@
-#Contents
+# Summary
 
-##Contents
-[Cover](README.md)
-###Schools
+* [Introduction](README.md)
 * [Special Lunch](special_lunch.md)
-
-###Community
 * [The Haunted Forest](thehauntedforest.md)
-
-###MidMichigan News
-
-
+* JokeContest
 
