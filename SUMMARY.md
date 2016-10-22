@@ -3,10 +3,13 @@
 * [Introduction](README.md)
 
 #Schools
+##Schools
 * [Special Lunch](special_lunch.md)
 * [SHS Announcements 10212016](shsannouncements102212016.md)
 
+
 #Community News
+##Community News
 * [Shepherd Police Department Update](phonelarceny.md)
 * [Playground Update](playgroundupdate.md)
 
