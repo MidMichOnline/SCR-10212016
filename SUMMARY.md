@@ -1,9 +1,10 @@
 # Summary
 
-[Schools](Schools)
+##[Schools](Schools/readme.md)
 
 * [Introduction](README.md)
-
+* 
+##Community News
 * [Shepherd Police Department Update](phonelarceny.md)
 * [Playground Update](playgroundupdate.md)
 * [Shepherd vs Ithaca](shepherdvsithaca.md)
