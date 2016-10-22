@@ -1,8 +1,9 @@
-# Contents
+#Contents
 [Cover](README.md)
-##Schools
+##Topics
+###Schools
 * [Special Lunch](special_lunch.md)
 
-##Community
+###Community
 * [The Haunted Forest](thehauntedforest.md)
 
