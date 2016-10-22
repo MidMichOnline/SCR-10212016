@@ -1,6 +1,6 @@
 # Summary
 
-* [Schools](Schools/readme.md)
+* [Schools](Schools/schools_summary.md)
 * Community News 
 ##Community News
 * [Shepherd Police Department Update](phonelarceny.md)
