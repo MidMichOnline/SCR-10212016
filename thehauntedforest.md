@@ -1,7 +1,5 @@
 # The Haunted Forest
 
-# The Haunted Forest
-
 The [Old Salt River Forest](http://www.shepherdhistory.org/community-events/) will be returning this year with new scares. The Haunted Forest will be in operation from Thursday, October 27 until Saturday, October 29. Here are the details from the flyer:
 
 
