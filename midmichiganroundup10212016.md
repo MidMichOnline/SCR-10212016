@@ -1,4 +1,4 @@
-# MidMichiganRoundup10212016
+# Mid Michigan Roundup 10/21/2016
 
 * [New gateway signs bring ‘identity’ to CMU’s campus](http://www.themorningsun.com/general-news/20161021/new-gateway-signs-bring-identity-to-cmus-campus)
 * [Firm explains straight- and split-ticket voting](http://www.themorningsun.com/general-news/20161021/firm-explains-straight-and-split-ticket-voting)
