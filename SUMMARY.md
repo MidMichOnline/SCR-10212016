@@ -11,7 +11,7 @@
 * [Haunted Forest](thehauntedforest.md)
 * [Trunk or Treat](trunkortreat.md)
 
-##Community
+###Community
 * [SPD Update](phonelarceny.md)
 
 ##Sports
