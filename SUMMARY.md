@@ -1,4 +1,5 @@
-# Summary
+# Contents
+[Cover](README.md)
 ##Schools
 * [Special Lunch](special_lunch.md)
 
