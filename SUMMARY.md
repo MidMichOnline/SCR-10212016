@@ -6,4 +6,5 @@
 * [Mid Michigan News Roundup](midmichiganroundup10212016.md)
 * [JokeContest](jokecontest.md)
 * [PhoneLarceny](phonelarceny.md)
+* Haunted5KTrailRun
 
