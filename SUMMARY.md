@@ -10,5 +10,5 @@
 * [Joke Contest](jokecontest.md)
 * [The Haunted Forest](thehauntedforest.md)
 * [Haunted 5K Trail Run](haunted5ktrailrun.md)
-* TrunkorTreat
+* [TrunkorTreat](trunkortreat.md)
 
