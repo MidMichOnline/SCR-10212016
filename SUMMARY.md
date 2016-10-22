@@ -9,5 +9,5 @@
 * [Joke Contest](jokecontest.md)
 * [Shepherd Police Department Update](phonelarceny.md)
 * [Playground Update](playgroundupdate.md)
-* ShepherdvsIthaca
+* [ShepherdvsIthaca](shepherdvsithaca.md)
 
