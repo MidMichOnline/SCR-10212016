@@ -1,6 +1,6 @@
 # Summary
 
-##[Schools](Schools/readme.md)
+[Schools](Schools/readme.md)
 
 * [Introduction](README.md)
 * 
