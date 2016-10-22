@@ -2,7 +2,7 @@
 
 * [Schools](Schools/schools_summary.md)
 * Community News 
-##Community News
+
 * [Shepherd Police Department Update](phonelarceny.md)
 * [Playground Update](playgroundupdate.md)
 * [Shepherd vs Ithaca](shepherdvsithaca.md)
