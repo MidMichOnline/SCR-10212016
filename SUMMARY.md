@@ -14,6 +14,5 @@
 ##Community
 * [SPD Update](phonelarceny.md)
 
-
 ##Sports
 * [Shepherd v. Ithaca](shepherdvsithaca.md)
