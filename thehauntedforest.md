@@ -9,3 +9,5 @@ The [Old Salt River Forest](http://www.shepherdhistory.org/community-events/) wi
 Fifty cents of each ticket will be donated to the Foster Closet of Isabella County. There will be a box available at the start of the Haunted Forest where attendees can drop off donations for this organization. Needed items include toothbrushes, deodorants, body sprays, small bottles of laundry soap, band aids, and they also need gently used or new clothing for kids of all ages.
 
 ![](hauntedtrail.jpg)
+
+| [Edit](https://github.com/MidMichOnline/SCR-10212016/blob/master/thehauntedforest.md) |
