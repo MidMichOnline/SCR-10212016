@@ -4,5 +4,5 @@
 
 > The PTO treated the students, with the top sales of their recent fund raiser, to lunch at the Maple Room
 
-| [Edit in Quip](https://midmichonline.quip.com/gKOSAMv8R8DM) |
+| [Edit](https://github.com/MidMichOnline/SCR-10212016/blob/master/special_lunch.md) |
 
