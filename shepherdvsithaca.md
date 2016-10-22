@@ -24,4 +24,10 @@ Tonight Jay Gross livestreamed Shepherd's game against Ithaca. Here is a [link t
 
 > Great game Shepherd... gave Ithaca all they wanted and some!! Thanks for the live feed Jay B Gross! That's was fun to watch
 
+-
+@Andrea Elizabeth Hall
+
+> 31-24 Final, Ithaca
+Great game played by our Bluejays🏈
+
 
