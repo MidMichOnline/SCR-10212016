@@ -8,5 +8,5 @@
 * [Mid Michigan News Roundup](midmichiganroundup10212016.md)
 * [JokeContest](jokecontest.md)
 * [Shepherd Police Department Update](phonelarceny.md)
-* PlaygroundUpdate
+* [PlaygroundUpdate](playgroundupdate.md)
 
