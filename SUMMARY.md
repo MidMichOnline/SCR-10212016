@@ -8,5 +8,5 @@
 * [Trunk or Treat](trunkortreat.md)
 * [SPD Update](phonelarceny.md)
 * [Shepherd v. Ithaca](shepherdvsithaca.md)
-* Call for Submissions
+* [Call for Submissions](submissions.md)
 
