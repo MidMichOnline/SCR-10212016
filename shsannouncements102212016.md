@@ -1,7 +1,7 @@
 # SHS Announcements 10/21/2016
 
-Announcements for Friday, October 21st:
-* Congratulations to the Cast of Beauty and the Beast. We will be meeting on Monday, October 24 at 5:05 in the Choir Room. Contracts, calendars and scripts will be discussed. Please make every effort to attend this important meeting, 30 minutes or less. If you are unable to attend and do not contact Mrs. M. or you fail to attend it will be assumed you are not interested in participating in the show. Any questions please contact Mrs. McLoughlin.
+**Announcements for Friday, October 21st:
+***** Congratulations to the Cast of Beauty and the Beast. We will be meeting on Monday, October 24 at 5:05 in the Choir Room. Contracts, calendars and scripts will be discussed. Please make every effort to attend this important meeting, 30 minutes or less. If you are unable to attend and do not contact Mrs. M. or you fail to attend it will be assumed you are not interested in participating in the show. Any questions please contact Mrs. McLoughlin.
 * Picture retakes are **Tuesday, October 25th**. If you wish to have your picture taken, you have to sign up in the office, the sheet is on the counter. We will begin calling students out of class, if your name is on the list, at 8:00 am. If you are a morning career tech student, you will need report directly to the auxiliary gym between 7:30 and 7:35.
 * The Media Center will be closed after school **Wednesday, October 26th**.
 * There will be a meeting next **Monday, October 24th** at lunch in Room 214 for anyone interested in bowling this season. It will be an informative meeting on when practices start and for tryouts
